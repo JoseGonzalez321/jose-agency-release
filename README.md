@@ -10,7 +10,7 @@ This the **bare** minimum needed to deploy a cool site to something like [Netlif
 
 ## See it live!
 
-Check out at: [joseg.tech](joseg.tech)
+Check out at: [joseg.tech](https://www.joseg.tech/)
 
 ## Awesome! Can I have it?
 
