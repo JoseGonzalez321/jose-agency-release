@@ -18,11 +18,9 @@ Sure thing! Clone away.
 
 ## What do I need to do?
 
-Open the `index.html` file and replace my information (contact info, images, etc). 
+Open the `index.html` file and replace my information (contact info, images, etc). You do not need to touch any other file. 
 
-Some basic HTML knowledge is necessary but not too hard to figure out.
-
-You do not need to touch any other file. 
+*Note:* Some basic HTML knowledge is necessary but it's pretty straight forward.
 
 ## How do I run this?
 
